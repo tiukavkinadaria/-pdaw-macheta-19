@@ -66,3 +66,13 @@ font-size: 14px;
 cursor: pointer;
 transition: background-color 0.2s ease;
 }
+.hero {
+display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 40px;
+    gap: 40px;
+}
+.hero-content {
+    max-width: 500px;
+}
