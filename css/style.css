@@ -193,6 +193,9 @@ position: absolute;
 }
 .coffee-cup {
 border-radius: 20px;
+background-color: #FDE7F0;
+width: 36px;
+height: 36px;    
 }
 .hero-stats {
     display: flex;
