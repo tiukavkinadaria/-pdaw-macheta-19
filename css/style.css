@@ -1,3 +1,8 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 .top-bar {
 font-family: "Open Sans";
 color: #CBD5E1;
@@ -12,6 +17,7 @@ align-items: center;
 }
 .nav-menu {
 position: sticky;
+    top: 0;
     max-width: 960px;
     margin: 0 auto;
     padding: 15px;
@@ -22,6 +28,7 @@ position: sticky;
     list-style: none;
     color: #475569;
     font-family: "Open Sans", sans-serif;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 .logo-name {
     font-size: 24px;
@@ -34,10 +41,9 @@ position: sticky;
 .ra {
     color: #9D174D;
 }
-a{
+a {
 text-decoration: none;
-color: inherit;
-    
+color: inherit; 
 }
 .button-nav {
 background-color: #701026;
