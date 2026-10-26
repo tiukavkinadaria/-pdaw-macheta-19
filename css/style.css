@@ -99,9 +99,25 @@ margin-bottom: 30px;
     font-weight: 600;
     border: none;
     transition: background-color 0.2s ease;
-
-
-
+.hero-img {
+    position: relative;
+}
+.floating-card {
+    position: absolute;
+    top: 20px;
+    right: -20px;
+    background-color: white;
+    padding: 12px 18px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.card-title {
+    font-size: 13px;
+    font-weight: 600;
+    color: #475569;
 
 
 
