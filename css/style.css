@@ -191,6 +191,9 @@ position: absolute;
     color: #64748B;
     margin-top: 2px;
 }
+.coffee-cup {
+border-radius: 20px;
+}
 .hero-stats {
     display: flex;
     gap: 35px;
