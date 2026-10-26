@@ -160,6 +160,11 @@ margin-bottom: 30px;
     padding: 0;
     margin-top: 2px;
 }
+.red discount {
+background-color: #FDE7F0;
+color: #9D174D;
+border-radius: 20px;
+
 .hero-stats {
     display: flex;
     gap: 35px;
