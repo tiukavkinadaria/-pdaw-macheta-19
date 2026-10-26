@@ -124,6 +124,7 @@ margin-bottom: 30px;
 }
 .hero-img {
     position: relative;
+    display: inline-block;
 }
 .floating-card {
     position: absolute;
@@ -136,6 +137,7 @@ margin-bottom: 30px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    z-index: 10;
 }
 .card-title {
     font-size: 13px;
@@ -147,6 +149,9 @@ margin-bottom: 30px;
     font-weight: 700;
     color: #9D174D;
     background-color: #FDE7F0;
+    padding: 2px 8px;
+    border-radius: 6px;
+    margin-top: 4px;
 }
 
 
