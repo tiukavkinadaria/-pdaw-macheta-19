@@ -23,6 +23,9 @@ max-width: 960px;
     color: #475569;
     font-family: "Open Sans";
 }
+.nav-menu ul {
+margin-left: auto;
+}
 .logo-name {
     font-size: 24px;
     font-family: "Montserrat";
