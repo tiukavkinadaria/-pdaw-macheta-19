@@ -26,6 +26,7 @@ list-style: none;
 }
 a{
 text-decoration: none;
+color: inherit;
     
 }
 .button-nav {
@@ -34,4 +35,5 @@ color: #FFFFFF;
 border-radius: 20px;
 padding: 10px 20px;
 font-size: 14px;
+cursor: pointer;
 }
