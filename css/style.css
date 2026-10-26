@@ -21,10 +21,15 @@ justify-content: space-between;
 list-style: none;
 }
 .logo-name {
-    font-family: 'Montserrat', sans-serif;
-a {
+    font-family: "Montserrat";
+a{
 text-decoration: none;
+    
 }
 .button-nav {
-  
+background-color: #701026;
+color: #FFFFFF;
+border-radius: 20px;
+padding: 10px 20px;
+font-size: 14px;
 }
