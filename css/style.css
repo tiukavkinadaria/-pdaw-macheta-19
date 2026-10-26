@@ -149,8 +149,10 @@ margin-bottom: 30px;
     font-weight: 600;
     color: white;
     line-height: 1.1;
+    font-family: "Montserrat";
 }
     .card-discount {
+     font-family: "Montserrat";
     font-size: 30px;
     font-weight: 700;
     color: white;
