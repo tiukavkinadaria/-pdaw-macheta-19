@@ -211,6 +211,9 @@ border-radius: 50%;
 background-color: #FDE7F0;
 width: 36px;
 height: 36px;    
+ display: flex;
+    align-items: center;
+
 }
 .hero-stats {
     display: flex;
