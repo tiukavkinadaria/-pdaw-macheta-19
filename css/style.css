@@ -16,14 +16,14 @@ color: #475569;
 font-family: "Open Sans";
 max-width: 960px;
 margin: 0 auto;
-padding: 0 auto;
+padding: 15px;
 display: flex;
 align-items: center;
 justify-content: space-between;
 list-style: none;
 }
 .logo-name {
-    font-size: 24;
+    font-size: 24px;
     font-family: "Montserrat";
 }
 .Au {
