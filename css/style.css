@@ -10,7 +10,7 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 }
-.nav-menu ul {
+.nav-menu {
 position: sticky;
 color: #475569;
 font-family: "Open Sans";
