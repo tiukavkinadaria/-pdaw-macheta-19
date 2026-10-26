@@ -13,9 +13,11 @@ align-items: center;
 .nav-menu ul {
 max-width: 960px;
 margin: 0 auto;
+padding: 0 auto;
 display: flex;
 align-items: center;
 justify-content: space-between;
+list-style: none;
 }
 a {
 text-decoration: none;
