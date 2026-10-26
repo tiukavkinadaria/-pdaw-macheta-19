@@ -12,7 +12,7 @@ align-items: center;
 }
 .nav-menu {
 position: sticky;
-max-width: 960px;
+    max-width: 960px;
     margin: 0 auto;
     padding: 15px;
     display: flex;
@@ -21,7 +21,7 @@ max-width: 960px;
     gap: 25px;
     list-style: none;
     color: #475569;
-    font-family: "Open Sans";
+    font-family: "Open Sans", sans-serif;
 }
 .logo-name {
     font-size: 24px;
