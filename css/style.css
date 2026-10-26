@@ -145,16 +145,16 @@ margin-bottom: 30px;
     padding: 10px;
 }
 .card-title {
-    font-size: 10px;
+    font-size: 13px;
     font-weight: 600;
-    color: #475569;
+    color: #white;
     line-height: 1.1;
 }
     .card-discount {
-    font-size: 16px;
+    font-size: 30px;
     font-weight: 700;
-    color: #9D174D;
-    background-color: transparent; /* Убираем лишний фон, если был */
+    color: white;
+    background-color: #A16207;
     padding: 0;
     margin-top: 2px;
 }
