@@ -103,12 +103,13 @@ margin-bottom: 30px;
 }
 .button2 {
     background-color: #701026;
-    color: #FFFFFF;
+    color: white;
     margin-right: 15px;
 }
 .button2:hover {
     background-color: white;
     border-color: #9D174D;
+    color: #9D174D;
 }
 .hero-img {
     position: relative;
