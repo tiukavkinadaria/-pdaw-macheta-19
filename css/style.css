@@ -181,6 +181,13 @@ position: absolute;
     font-size: 13px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
     z-index: 10;
+    isplay: flex;
+    align-items: center;
+    gap: 12px;
+}
+.coffee-text {
+    display: flex;
+    flex-direction: column;
 }
 .coffee-title {
     font-size: 15px;
