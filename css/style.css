@@ -19,7 +19,16 @@ max-width: 960px;
     align-items: center;
     justify-content: space-between;
 }
-
+.nav-menu ul {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: #475569;
+    font-family: "Open Sans";
+}
 .logo-name {
     font-size: 24px;
     font-family: "Montserrat";
