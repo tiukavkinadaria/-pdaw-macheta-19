@@ -69,6 +69,7 @@ transition: background-color 0.2s ease;
 }
 .hero {
 max-width: 960px;
+margin: 0 auto;
 display: flex;
     justify-content: space-between;
     align-items: center;
@@ -102,24 +103,24 @@ margin-bottom: 30px;
     transition: background-color 0.2s ease;
 }
 .button2 {
-    background-color: #701026;
+    background-color: #9D174D;
     color: white;
     margin-right: 15px;
 }
 .button2:hover {
     background-color: white;
-    border-color: #701026;
-    color: #701026;
+    border-color: #9D174D;
+    color: #9D174D;
 }
 .button-vezi {
-    background-color: #701026;
+    background-color: #9D174D;
     color: white;
     margin-right: 15px;
 }
 .button-vezi:hover {
     background-color: white;
-    border-color: #701026;
-    color: #701026;
+    border-color: #9D174D;
+    color: #9D174D;
 }
 .hero-img {
     position: relative;
