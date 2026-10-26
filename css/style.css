@@ -12,16 +12,14 @@ align-items: center;
 }
 .nav-menu {
 position: sticky;
-color: #475569;
-font-family: "Open Sans";
 max-width: 960px;
-margin: 0 auto;
-padding: 15px;
-display: flex;
-align-items: center;
-justify-content: space-between;
-list-style: none;
+    margin: 0 auto;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
+
 .logo-name {
     font-size: 24px;
     font-family: "Montserrat";
