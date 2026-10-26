@@ -68,6 +68,7 @@ cursor: pointer;
 transition: background-color 0.2s ease;
 }
 .hero {
+max-width: 960px;
 display: flex;
     justify-content: space-between;
     align-items: center;
@@ -99,6 +100,14 @@ margin-bottom: 30px;
     font-weight: 600;
     border: none;
     transition: background-color 0.2s ease;
+}
+.button2 {
+    background-color: #701026;
+    color: #FFFFFF;
+    margin-right: 15px;
+}
+.button2:hover {
+    background-color: #9D174D;
 }
 .hero-img {
     position: relative;
