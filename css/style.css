@@ -39,6 +39,9 @@ position: sticky;
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
 }
+.nav-menu ul li a:hover {
+    color: #9D174D;
+}
 .logo-name {
     font-size: 24px;
     font-family: "Montserrat";
