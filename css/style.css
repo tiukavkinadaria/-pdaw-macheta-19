@@ -148,20 +148,23 @@ margin-bottom: 30px;
     text-align: center;
     padding: 10px;
 }
-.card-title {
-    font-size: 13px;
+
+.floating-card .card-discount {
+    font-family: "Montserrat", sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    color: white;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+}
+
+.floating-card .card-title {
+    font-size: 11px;
     font-weight: 600;
     color: white;
     line-height: 1.1;
-    font-family: "Montserrat";
-}
-    .card-discount {
-     font-family: "Montserrat";
-    font-size: 30px;
-    font-weight: 700;
-    color: white;
-    background-color: #A16207;
-    padding: 0;
+    font-family: "Montserrat", sans-serif;
     margin-top: 2px;
 }
 .red-discount {
