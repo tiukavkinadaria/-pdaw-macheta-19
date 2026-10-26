@@ -99,6 +99,7 @@ margin-bottom: 30px;
     font-weight: 600;
     border: none;
     transition: background-color 0.2s ease;
+}
 .hero-img {
     position: relative;
 }
