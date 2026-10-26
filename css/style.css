@@ -23,6 +23,7 @@ justify-content: space-between;
 list-style: none;
 }
 .logo-name {
+    font-size: 24;
     font-family: "Montserrat";
 }
 .Au {
