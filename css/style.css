@@ -130,7 +130,7 @@ margin-bottom: 30px;
     position: absolute;
     top: 20px;
     right: -20px;
-    background-color: white;
+    background-color: #A16207;
     width: 124px;  
     height: 124px;
     border-radius: 50%;
@@ -147,7 +147,7 @@ margin-bottom: 30px;
 .card-title {
     font-size: 13px;
     font-weight: 600;
-    color: #white;
+    color: white;
     line-height: 1.1;
 }
     .card-discount {
