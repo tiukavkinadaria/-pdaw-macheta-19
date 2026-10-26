@@ -24,6 +24,13 @@ list-style: none;
 .logo-name {
     font-family: "Montserrat";
 }
+.Au {
+    color: #2E1022;
+}
+
+.ra {
+    color: #9D174D;
+}
 a{
 text-decoration: none;
 color: inherit;
