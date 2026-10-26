@@ -192,6 +192,7 @@ position: absolute;
     margin-top: 2px;
 }
 .coffee-cup {
+font-size: 17px;
 border-radius: 20px;
 background-color: #FDE7F0;
 width: 36px;
@@ -207,7 +208,7 @@ height: 36px;
     flex-direction: column;
 }
 .stat-number {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Montserrat";
     font-size: 24px;
     font-weight: 700;
     color: #2E1022;
