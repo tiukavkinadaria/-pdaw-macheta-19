@@ -98,7 +98,7 @@ margin-bottom: 30px;
     padding: 12px 24px;
     font-size: 14px;
     font-weight: 600;
-    border: none;
+    border: 2px solid transparent;
     transition: background-color 0.2s ease;
 }
 .button2 {
