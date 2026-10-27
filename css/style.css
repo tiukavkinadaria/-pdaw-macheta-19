@@ -305,5 +305,10 @@ justify-content: flex-end;
 background-color: white;
 opacity: 25%;
 border-radius: 20px;
-}   
+}
+.features {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
 
