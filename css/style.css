@@ -239,7 +239,7 @@ height: 36px;
 
 .de-ce {
 position: relative;
-max-width: 40%;
+max-width: 960px;
 margin: 0 auto;
 display: flex;
 align-items: flex-start;
@@ -307,9 +307,11 @@ opacity: 25%;
 border-radius: 20px;
 }
 .features {
-    max-width: 60%;
+    width: 100%;
+    max-width: 100%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
+    margin-top: 30px;
 }
 
