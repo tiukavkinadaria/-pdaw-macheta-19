@@ -283,17 +283,15 @@ margin: 8px 16px;
     color: #9D174D;
 }
 .phone-span {
-position: absolute;
-  top: 40px;
-  right: 20px;
-  display: flex;
+display: inline-flex;
   align-items: center;
   gap: 8px;
-  background-color: #FDE7F0;
-  color: #9D174D;
+  background-color: #A16207; 
+  color: white;
   padding: 8px 16px;
   border-radius: 20px;
   font-family: "Open Sans";
   font-size: 14px;
+  margin: 4px 16px 12px 16px;
 }
 
