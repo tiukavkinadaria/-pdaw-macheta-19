@@ -263,6 +263,7 @@ margin: 8px 16px;
 }
 
 .echipa {
+    border-radius: 20px;
     background-color: #9D174D;
     color: white;
     margin-right: 15px;
