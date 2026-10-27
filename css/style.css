@@ -363,7 +363,7 @@ width: 100%;
 .services {
 max-width: 960px;
 display: flex;
-ustify-content: center;
+justify-content: center;
 
 }
 .services .servicii {
