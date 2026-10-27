@@ -331,7 +331,6 @@ width: 100%;
   align-items: flex-start;
   gap: 10px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
-  background-color: #FDF8F6;
 }
 .features .card .icon {
   font-size: 24px;
@@ -350,7 +349,7 @@ width: 100%;
   color: #2E1022;
 }
 .features .card p {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans";
   font-size: 14px;
   color: #64748B;
   line-height: 1.5;
