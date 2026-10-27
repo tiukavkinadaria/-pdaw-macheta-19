@@ -500,5 +500,7 @@ color: #9D174D;
 font-size: 34px;
 font-family: "Montserrat";
 color: #2E1022;
-
 }
+.review-card {
+display: flex;
+lign-items: flex-start;
