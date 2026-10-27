@@ -312,8 +312,11 @@ justify-content: flex-end;
 .telifon{
 background-color: rgba(255, 255, 255, 0.3);
 border-radius: 20px;
-width: 30px;
-  height: 30px;
+width: 36px;
+  height: 36px;
+display: flex;     
+  align-items: center;   
+  justify-content: center;
 }
 .features {
     width: 48%;
