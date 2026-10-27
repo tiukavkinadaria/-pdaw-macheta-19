@@ -310,9 +310,10 @@ justify-content: flex-end;
   font-size: 15px;
 }
 .telifon{
-background-color: white;
-opacity: 25%;
+background-color: rgba(255, 255, 255, 0.3);
 border-radius: 20px;
+width: 30px;
+  height: 30px;
 }
 .features {
     width: 48%;
