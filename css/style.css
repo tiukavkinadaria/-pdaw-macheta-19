@@ -248,11 +248,12 @@ flex-direction: column;
 font-size: 12px;
 font-family: "Open Sans";
 color: #9D174D;
+margin: 4px 16px;
 }
 .de-ce h2{
 font-size: 34;
 font-family: "Montserrat";
-margin: 8px 16px;
+margin: 4px 16px;
 }
 .de-ce p {
 font-size: 15px;
