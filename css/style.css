@@ -457,12 +457,12 @@ height: 192px;
   color: #2E1022;
 }
 .service-btn {
-  background-color: #2E1022; 
-  color: #ffffff;
+  background-color: #9D174D; 
+  color: white;
   border: none;
   padding: 10px 20px;
-  border-radius: 8px;
-  font-family: "Montserrat", sans-serif;
+  border-radius: 20px;
+  font-family: "Montserrat";
   font-size: 14px;
   font-weight: 600;
   cursor: pointer;
