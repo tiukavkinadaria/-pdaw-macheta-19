@@ -472,3 +472,10 @@ height: 192px;
 .service-btn:hover {
   background-color: #4A1B38;
 }
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 30px;
+  margin-top: 30px;
+  text-align: left;
+}
