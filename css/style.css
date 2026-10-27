@@ -241,8 +241,8 @@ height: 36px;
 max-width: 960px;
 margin: 0 auto;
 display: flex;
+align-items: flex-start;
 flex-direction: column;
-
 }
 .aura {
 font-size: 12px;
@@ -251,7 +251,7 @@ color: #9D174D;
 margin: 4px 16px;
 }
 .de-ce h2{
-font-size: 34;
+font-size: 34px;
 font-family: "Montserrat";
 margin: 4px 16px;
 }
@@ -266,6 +266,7 @@ margin: 8px 16px;
     width: auto;
     font-size: 15px;
     padding: 12px 24px;
+    margin: 12px 24px
     text-decoration: none;
     display: inline-block;
     border-radius: 20px;
