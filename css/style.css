@@ -238,14 +238,22 @@ height: 36px;
 }
 
 .de-ce {
-position: relative;
-max-width: 960px;
-margin: 0 auto;
-display: flex;
-align-items: flex-start;
-flex-direction: column;
-padding: 40px 20px;
-padding-top: 70px;
+  position: relative;
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; 
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 40px 20px;
+  padding-top: 70px;
+}
+.de-ce-content {
+  max-width: 45%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 .aura {
 font-size: 12px;
@@ -307,23 +315,23 @@ opacity: 25%;
 border-radius: 20px;
 }
 .features {
-    width: 100%;
+    width: 48%;
     max-width: 100%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
-    margin-top: 30px;
 }
 .features .card {
-width: 257px;
-height: 169px;
-  padding: 25px;
+width: 100%;
+  height: auto;
+  padding: 20px;
   border-radius: 16px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 12px;
+  gap: 10px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+  background-color: #FDF8F6;
 }
 .features .card .icon {
   font-size: 24px;
