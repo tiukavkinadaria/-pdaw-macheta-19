@@ -362,14 +362,19 @@ width: 100%;
 }
 .services {
 max-width: 960px;
+margin: 0 auto;
 display: flex;
+flex-direction: column;
 justify-content: center;
+text-align: center;
+padding: 40px 20px;
 
 }
 .services .servicii {
 font-size: 12px;
 font-family: "Open Sans";
 color: #9D174D;
+margin-bottom: 8px;
 }
 .services h3 {
 font-family: "Montserrat";
