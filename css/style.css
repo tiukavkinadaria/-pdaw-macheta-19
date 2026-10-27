@@ -433,3 +433,42 @@ height: 192;
   color: #2E1022;
   margin-bottom: 4px;
 }
+.service-desc {
+  font-family: "Open Sans", sans-serif;
+  font-size: 13px;
+  color: #64748B;
+  margin-bottom: 12px;
+}
+.service-rating {
+  color: #F59E0B;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+.service-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: auto;
+}
+.service-price {
+  font-family: "Montserrat";
+  font-size: 20px;
+  font-weight: 700;
+  color: #2E1022;
+}
+.service-btn {
+  background-color: #2E1022; 
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.service-btn:hover {
+  background-color: #4A1B38;
+}
