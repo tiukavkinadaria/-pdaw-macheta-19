@@ -503,4 +503,4 @@ color: #2E1022;
 }
 .review-card {
 display: flex;
-lign-items: flex-start;
+flex-direction: column;
