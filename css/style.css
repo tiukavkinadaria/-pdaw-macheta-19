@@ -286,6 +286,7 @@ margin: 8px 16px;
     color: #9D174D;
 }
 .phone-span {
+position: absolute;
 top: 20px;
 right: 20px;
 display: inline-flex;
