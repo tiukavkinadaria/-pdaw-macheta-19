@@ -336,3 +336,15 @@ height: 169px;
   justify-content: center;
   margin-bottom: 4px;
 }
+.features .card h3 {
+  font-family: "Montserrat";
+  font-size: 17px;
+  color: #2E1022;
+}
+.features .card p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  color: #64748B;
+  line-height: 1.5;
+  margin: 0;
+}
