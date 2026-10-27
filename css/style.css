@@ -252,11 +252,14 @@ color: #9D174D;
 .de-ce h2{
 font-size: 34;
 font-family: "Montserrat";
+margin: 8px 16px;
 }
 .de-ce p {
 font-size: 15px;
 color: #64748B;
 font-family: "Open Sans";
+margin: 8px 16px;
+
 }
 
 
