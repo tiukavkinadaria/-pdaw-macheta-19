@@ -213,6 +213,7 @@ width: 36px;
 height: 36px;    
  display: flex;
 align-items: center;
+justify-content: center;
 
 }
 .hero-stats {
@@ -482,6 +483,12 @@ height: 192px;
 .RECENZII {
 display: flex;
 align-items: center;
+max-width: 960px;
+margin: 0 auto;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+padding: 40px 20px;
 
 }
 .reviews {
