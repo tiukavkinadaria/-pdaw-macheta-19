@@ -420,3 +420,16 @@ height: 192;
   font-family: "Montserrat";
   letter-spacing: 0.5px;
 }
+.service-content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.service-title {
+  font-family: "Montserrat";
+  font-size: 18px;
+  color: #2E1022;
+  margin-bottom: 4px;
+}
