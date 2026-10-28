@@ -15,8 +15,9 @@ display: flex;
 justify-content: space-between;
 align-items: center;
 }
-.nav-menu {
-    background-color: white;
+.nav-menu { 
+z-index: 1000;
+background-color: white;
 position: sticky;
     top: 0;
     max-width: 960px;
