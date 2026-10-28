@@ -17,7 +17,7 @@ align-items: center;
 }
 .nav-menu { 
 z-index: 1000;
-background-color: white;
+
 position: sticky;
     top: 0;
     max-width: 960px;
@@ -31,6 +31,7 @@ position: sticky;
     color: #475569;
     font-family: "Open Sans";
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+background-color: white;
 }
 .nav-menu ul {
     display: flex;
