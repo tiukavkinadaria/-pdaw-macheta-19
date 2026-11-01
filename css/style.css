@@ -589,3 +589,12 @@ justify-content: center;
 text-align: center;
 padding: 40px 20px;
 }
+.salon-title {
+font-family: "Open Sans";
+font-size: 12px;
+color: #9D174D;
+}
+.bine {
+font-size: 34px;
+font-family: "Montserrat";
+color: #2E1022;
