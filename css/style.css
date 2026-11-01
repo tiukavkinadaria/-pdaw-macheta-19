@@ -568,9 +568,15 @@ background-color: #2E1022;
 color: white;
 border-radius: 50%;
 }
-.user-info {
-display: flex;
+.review-user {
+    display: flex;
+    flex-direction: row;
     align-items: center;
     gap: 12px;
     margin-top: auto;
+}
+.user-info {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
 }
