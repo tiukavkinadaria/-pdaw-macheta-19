@@ -504,8 +504,6 @@ color: #2E1022;
 }
 .review-card {
 display: flex;
-height: 215px;
-width: 279px;
 align-items: flex-start;
  text-align: left;
  gap: 10px;
