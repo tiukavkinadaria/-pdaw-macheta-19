@@ -561,8 +561,3 @@ background-color: #2E1022;
 color: white;
 border-radius: 50%;
 }
-.user-info {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-}  
