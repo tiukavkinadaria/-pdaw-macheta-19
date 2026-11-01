@@ -512,3 +512,12 @@ font-family: "Open Sans";
   color: #2E1022;
   line-height: 1.5;
 }
+.rewiew-avatar {
+height: 46;
+width: 46;
+background-color: #9D174D;
+color: white;
+border-radius: 50%;
+
+
+}
