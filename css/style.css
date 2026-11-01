@@ -517,12 +517,12 @@ color: #2E1022;
 .review-stars {
     color: #F59E0B;
 }
-
-.RECENZII p {
-font-family: "Open Sans";
-  font-size: 15px;
-  color: #2E1022;
-  line-height: 1.5;
+.RECENZII .review-text {
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-style: italic;
+    color: #2E1022;
+    line-height: 1.5;
 }
 .review-avatar {
 flex-shrink: 0;
